@@ -1,8 +1,8 @@
 # NTHU-Captcha-Solver
 This repo contains
-- [demo video](demo.mp4): you can scroll down and play it.
-- [chrome extension](chrome-extension)
-- [training process with simple inference test](train-test), but lack of documentation and out of maintenance.
+- [demo video](demo.mp4): you can scroll down to play it for a demo.
+- [chrome-extension](chrome-extension): this includes installation guide.
+- [train-test](train-test): this folder has the scripts for training and some simple tests, but lack of documentation and out of maintenance.
 
 <video src="demo.mp4" controls ></video>
 
