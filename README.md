@@ -1,2 +1,5 @@
 # NTHU-Captcha-Solver
-This repo contains the training process, simple inference test, and the chrome extension. However, it is out of maintence.
+This repo contains the training process with simple inference test and the chrome extension. However, it is not documented and out of maintenance.
+
+## Demo
+![video](demo.mkv)
